@@ -19,4 +19,4 @@ El usuario tiene la opción de elegir como prefiere ingresar decimales según su
 
 Para obtener una llave de la API de <b>ExchangeRate</b>, lo puede hacer mediante el siguiente enlace: [ExchangeRate API](https://www.exchangerate-api.com)
 
-Para poder usar la llave en el programa, el usuario debe crear un archivo con nombre <b>".env"</b> en el directorio del proyecto.
+Para poder usar la llave en el programa, el usuario debe crear un archivo con nombre <b>".env"</b> en el directorio del proyecto (idealmente al mismo nivel del README).
